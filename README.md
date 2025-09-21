@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+## 👥 Team profiles
+- [연희](team/PROFILE_yh.md)
+- [현주](team/PROFILE_hj.md)
+- [재민](team/PROFILE_jm.md)
+- [수현](team/PROFILE_sh.md)
+- [소민](team/PROFILE_sm.md)
+- [유진](team/PROFILE_yj.md)
+>>>>>>> e26f4a0afc2f85b584c2c2cd5d9d910f857b19f8
